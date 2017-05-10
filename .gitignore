@@ -1,6 +1,5 @@
 /.bundle
 /.ruby-version
 /vendor/bundle
-/Gemfile.lock
 
 *.swp
